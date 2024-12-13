@@ -4,8 +4,8 @@
 | Week         | Challenge | Category                                    | Link                                    | 
 |----- |-----------------------|------------------------------------------------------|------------------------------------------------------|
 | 1   | 1.  |  x  | [x](x) |
-| 2   | 1. |  Preppin Data  | [pd2023w1](x) |
-| 2   | 2. |  Preppin Data  | [pd2023w2](x) |
+| 2   | 1. |  Preppin Data  | [pd2023w1](https://github.com/ejhughes/Summer_of_SQL/blob/main/pd2023w1.sql) |
+| 2   | 2. |  Preppin Data  | [pd2023w2](https://github.com/ejhughes/Summer_of_SQL/blob/main/pd2023w2.sql) |
 | 2   | 3. |  Preppin Data  | [x](x) |
 | 2   | 4. |  Preppin Data  | [x](x) |
 | 6.   | x |  x  | [x](x) |
