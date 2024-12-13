@@ -1,13 +1,13 @@
 # Summer_of_SQL
 @wjsutton SQL challenge series, including: SQL Murder Mystery, Preppin' Data challenges, Danny with Data challenges and other portfolio challenges
 
-| Challenge | Week         | Category                                    | Link                                    | 
+| Week         | Challenge | Category                                    | Link                                    | 
 |----- |-----------------------|------------------------------------------------------|------------------------------------------------------|
-| 1.   |   |  x  | [x](x) |
-| 2.   | x |  x  | [x](x) |
-| 3.   | x |  x  | [x](x) |
-| 4.   | x |  x  | [x](x) |
-| 5.   | x |  x  | [x](x) |
+| 1   | 1.  |  x  | [x](x) |
+| 2   | 1. |  Preppin Data  | [pd2023w1](x) |
+| 2   | 2. |  Preppin Data  | [pd2023w2](x) |
+| 2   | 3. |  Preppin Data  | [x](x) |
+| 2   | 4. |  Preppin Data  | [x](x) |
 | 6.   | x |  x  | [x](x) |
 | 7.   | x |  x  | [x](x) |
 | 8.   | x |  x  | [x](x) |
