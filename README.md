@@ -6,7 +6,7 @@
 | 1   | 1.  |  x  | [x](x) |
 | 2   | 1. |  Preppin Data  | [pd2023w1](https://github.com/ejhughes/Summer_of_SQL/blob/main/pd2023w1.sql) |
 | 2   | 2. |  Preppin Data  | [pd2023w2](https://github.com/ejhughes/Summer_of_SQL/blob/main/pd2023w2.sql) |
-| 2   | 3. |  Preppin Data  | [x](x) |
+| 2   | 3. |  Preppin Data  | [pd2023w3](https://github.com/ejhughes/Summer_of_SQL/blob/main/pd2023w3.sql) |
 | 2   | 4. |  Preppin Data  | [x](x) |
 | 6.   | x |  x  | [x](x) |
 | 7.   | x |  x  | [x](x) |
