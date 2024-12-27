@@ -8,7 +8,7 @@
 | 2   | 2. |  Preppin Data  | [pd2023w2](https://github.com/ejhughes/Summer_of_SQL/blob/main/pd2023w2.sql) | Concat |
 | 2   | 3. |  Preppin Data  | [pd2023w3](https://github.com/ejhughes/Summer_of_SQL/blob/main/pd2023w3.sql) | Unpivot |
 | 2   | 4. |  Preppin Data  | [pd2023w4](https://github.com/ejhughes/Summer_of_SQL/blob/main/pd2023w4.sql) | Pivot |
-| 6.   | x |  x  | [x](x) ||
+| 3.   | 1 |  Data wtih Danny  | [8_wk_sql_challenge:Foodie Fi](https://github.com/ejhughes/Summer_of_SQL/blob/main/8_wk_sql_challenge_w3.sql) ||
 | 7.   | x |  x  | [x](x) ||
 | 8.   | x |  x  | [x](x) ||
 | 9.   | x |  x  | [x](x) ||
